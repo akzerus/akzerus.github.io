@@ -5,3 +5,9 @@ so als hätte er gerade eine Maß Bier genossen und den besten Sex seines Lebens
 Er sollte unverwechselbar sein. Deshalb  hat das Linux-Maskottchen einen orangefarbenen 
 Schnabel und orangefarbene Füße, so dass es wie ein Pinguin aussieht,
 dessen Mutter eine Ente war. 
+
+## Eigenschaften
+
+* Pinguin
+* Süß
+* Maskottchen
