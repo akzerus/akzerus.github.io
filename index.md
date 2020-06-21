@@ -15,3 +15,5 @@ dessen Mutter eine Ente war.
 
 > Ich bin ein Maskottchen
 > Ich bin sprachlos
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"/>
