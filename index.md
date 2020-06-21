@@ -11,3 +11,7 @@ dessen Mutter eine Ente war.
 * Pinguin
 * Süß
 * Maskottchen
+
+
+> Ich bin ein Maskottchen
+> Ich bin sprachlos
